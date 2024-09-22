@@ -9,6 +9,7 @@ Note: Closes Visual Studio & MSSQL Server Management tool before installing
 
 1.2. Opens MSSQL Server Management tool and executes SWP391ProductManagementSystem.sql script
 
+1.3. Reading: https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
 
 ===============================================================================
 2. SOME UTILITY COMMANDS & SOURCE CODE
